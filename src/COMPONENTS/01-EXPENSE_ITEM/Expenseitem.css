@@ -1,0 +1,27 @@
+.Expense_box {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 25px;
+  background-color: #1098ad;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  border-radius: 1.2rem;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.Expense_title {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.Expense_price {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: black;
+  padding: 1rem;
+  border-radius: 1.2rem;
+}

@@ -1,0 +1,19 @@
+.filter_label {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+}
+.Filter_component {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+  gap: 45rem;
+}
+.Filter_dropdown select {
+  width: 5rem;
+  height: 3rem;
+  font-size: 20px;
+  text-align: center;
+}

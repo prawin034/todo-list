@@ -1,0 +1,12 @@
+.boxx {
+  background-color: black;
+  margin: 0 auto;
+  width: 70rem;
+  padding: 20px;
+  border-radius: 1.2rem;
+}
+.noexpense {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
